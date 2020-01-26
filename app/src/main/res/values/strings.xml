@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Ch02 Demo</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selecteds</string>
+    <string-array name="beer_colors">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Dark</item>
+        <item>Brown</item>
+    </string-array>
 </resources>
